@@ -88,7 +88,7 @@ const options = {
 		},
 		servers: [
 			{
-				url: `https://node-ecommerce-lo56.onrender.com`,
+				url: `https://node-ecommerce-v2.onrender.com`,
 			},
 		],
 	},
